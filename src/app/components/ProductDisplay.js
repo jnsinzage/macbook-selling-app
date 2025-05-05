@@ -84,7 +84,7 @@ export default function ProductDisplay() {
           <p className="price">Tshs 600,000/=</p>
           <p className="description">
             This MacBook Air is in excellent condition with minimal wear. 
-            It's powerful, lightweight, and perfect for work, study, or everyday use.
+            It&apos;s powerful, lightweight, and perfect for work, study, or everyday use.
           </p>
           <Link href="contact" className="btn">
             Contact Seller
@@ -118,7 +118,7 @@ export default function ProductDisplay() {
 
       {/* Included Items Section */}
       <section className="included-section">
-        <h2 className="section-heading">What's Included</h2>
+        <h2 className="section-heading">What&apos;s Included</h2>
         <div className="section-divider" />
         <ul className="included-list">
           <li>MacBook Air (13-inch, Early 2015)</li>
