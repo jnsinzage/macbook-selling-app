@@ -57,7 +57,7 @@ export default function ContactForm() {
           textAlign: 'center'
         }}>
           <p style={{ color: '#2e7d32', fontWeight: 'bold', marginBottom: '1rem' }}>
-            Your message has been sent successfully! We'll get back to you soon.
+            Your message has been sent successfully! We&apos;ll get back to you soon.
           </p>
           <button 
             className="btn" 
